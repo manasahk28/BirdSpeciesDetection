@@ -137,7 +137,14 @@ TinyML-Bird-Detection/
 │   ├── IOT_model.ipynb
 │   └── saved_models/
 │       ├── best_model.h5
-│       └── bird_model.tflite│
+│       └── bird_model.tflite
+|   
+├──other_files/
+|  ├── paths_test.txt
+|  ├── paths_train.txt
+|  ├── y_test.txt
+|  └── y_train.txt
+|
 └── README.md
 ```
 
