@@ -124,7 +124,7 @@ TinyML-Bird-Detection/
 │       └── bird_model.tflite
 │
 ├── server/
-│   ├── app.py
+│   ├── Flask.ipynb
 │   └── requirements.txt
 │
 ├── Birds/
